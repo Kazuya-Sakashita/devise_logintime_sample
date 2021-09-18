@@ -1,24 +1,7 @@
-# README
+仲間との共同開発の中でログイン時間の表示が必要になったため調べサンプルアプリで確認。
+ログインは、deviseを使用していることから、その機能を使った。
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+参考HP
+https://www.nightswinger.dev/2020/03/logging-when-to-sign-in-with-devise/
+https://www.uosansatox.biz/entry/2017/08/31/130238
